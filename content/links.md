@@ -4,3 +4,5 @@ title: Links
 ## Project Status
 
 - [Cookbook](projects/cookbook)
+- [Idea](projects/idea)
+- [Impulses](projects/impulses)
